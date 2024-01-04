@@ -90,22 +90,4 @@ Recursion is a programming technique where a function calls itself in order to s
 
 Dynamic programming is a method for solving complex problems by breaking them down into simpler, overlapping subproblems.
 
-## How to Use
-
-Each data structure and algorithm is implemented in a separate JavaScript file. You can explore the code, understand the implementation details, and even run the provided examples. Feel free to use and modify the code for your own projects or educational purposes.
-
-To run the examples, use a JavaScript runtime like Node.js. For example:
-
-```bash
-node bubbleSort.js
-```
-
-## Contributing
-
-Contributions are welcome! If you have additional implementations, optimizations, or improvements, please open an issue or submit a pull request. Be sure to follow the existing coding style and provide clear documentation for any changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use this code in your projects and share it with others.
-
 Happy coding!
