@@ -1,6 +1,6 @@
-# JavaScript Data Structures and Algorithms
+# Data Structures and Algorithms
 
-This repository contains a collection of common data structures and algorithms implemented in JavaScript. The goal is to provide a resource for developers to learn and understand fundamental concepts in data structures and algorithms, with a focus on practical implementations using JavaScript.
+
 
 ## Table of Contents
 
@@ -22,13 +22,8 @@ This repository contains a collection of common data structures and algorithms i
         - [Binary Search](#binary-search)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
-4. [How to Use](#how-to-use)
-5. [Contributing](#contributing)
-6. [License](#license)
 
-## Introduction
 
-Understanding data structures and algorithms is crucial for every software developer. This repository aims to provide clear and concise implementations of various data structures and algorithms in JavaScript. Whether you are a beginner looking to grasp the basics or an experienced developer wanting to refresh your knowledge, this repository is designed to be a valuable resource.
 
 ## Data Structures
 
@@ -90,4 +85,4 @@ Recursion is a programming technique where a function calls itself in order to s
 
 Dynamic programming is a method for solving complex problems by breaking them down into simpler, overlapping subproblems.
 
-Happy coding!
+
