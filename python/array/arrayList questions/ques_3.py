@@ -8,17 +8,14 @@ left=0
 right=len(num)-1
 
 def search(num,left,right,target):
-  if left == right:
-    if num[left] == target:
-      return num[left]
-  else:
-    mid= int((left+right)/2)
-    if num[mid]== target:
-      return num[mid]
-    elif target < num[mid]:
-      return search(num,left,mid-1,target)
-    elif num[mid] < target:
-      return search(num,mid+1,right,target)
+  if left <= right:
+          mid = (left + right) // 2
+          if num[mid] == target:
+              return mid
+          elif target < num[mid]:
+              return search(num, left, mid - 1, target)
+          else:
+              return search(num, mid + 1, right, target)
   return -1
 
 
