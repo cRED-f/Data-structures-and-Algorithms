@@ -1,7 +1,7 @@
 # not sorted activity selection problem
 
 start = [1,3,0,5,8,5]
-end =   [9,4,6,7,9,2]
+end =   [9,4,6,7,9,3]
 act = []
 
 
